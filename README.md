@@ -2,4 +2,4 @@
 
 ## only HTML and CSS
 
-https://endriu17.github.io/for-ambitious/.
+https://endriu17.github.io/first-individual-project/
